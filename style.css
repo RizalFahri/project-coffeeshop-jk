@@ -1,0 +1,48 @@
+.custom-navbar {
+    background-color: chocolate;
+    color: #fff;
+}
+.txt-judul {
+    text-align: center;
+}
+.txt-subjudul {
+    text-align: center;
+}
+.custom-isi {
+    background-color: rgb(251, 210, 180);
+    border-radius: 10px;
+    padding: 20px 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.custom-carousel{
+    margin: 20px auto;
+    width: 900px;
+}
+.custom-carousel-2{
+    margin: 20px auto;
+    width: 700px;
+}
+.custom-carousel-img{
+    border-radius: 15px;
+}
+.custom-button-a {
+    text-decoration: none;
+}
+.custom-button {
+    background-color: rgb(210, 105, 30);
+    color: #fff;
+    border: none;
+    padding: 5px 20px;
+    border-radius: 5px;
+    display: block;
+    margin: 0 auto;
+    text-decoration: none;
+}
+.custom-button:hover {
+    background-color: rgb(82, 34, 0);
+    border-radius: 5px;
+}
+.custom-ul-li .nav-link {
+    color: #fff; 
+}
